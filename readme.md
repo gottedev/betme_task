@@ -1,5 +1,6 @@
-Requirements: Node 12+
-Instructions:0.clone this repo in your system
-1.check whether you have node installed in your system,
-2.do npm install in terminal
-3.last npm start to see task result
+#Requirements: Node 12+
+#Instructions:
+*clone this repo in your system
+*check whether you have node installed in your system,
+*do npm install in terminal
+*last npm start to see task result
