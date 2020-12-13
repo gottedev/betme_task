@@ -692,9 +692,9 @@ inherits@2.0.4:
   integrity sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==
 
 ini@^1.3.5, ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 ipaddr.js@1.9.1:
   version "1.9.1"
@@ -1137,11 +1137,6 @@ request@^2.88.2:
     tunnel-agent "^0.6.0"
     uuid "^3.3.2"
 
-rereadable-stream@^1.3.34:
-  version "1.3.34"
-  resolved "https://registry.yarnpkg.com/rereadable-stream/-/rereadable-stream-1.3.34.tgz#33e176d0076374655f960fb41f698d1f726e01f5"
-  integrity sha512-1Rw08PSX2W2QJIlNukC3xGI/iGVejYfOWS6Jre3SyvHnR2KZ3i4R/DVQcab1XFHcWO4tfclLnLcFRzQG9g7bbQ==
-
 responselike@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/responselike/-/responselike-1.0.2.tgz#918720ef3b631c5642be068f15ade5a46f4ba1e7"
@@ -1163,20 +1158,6 @@ safe-buffer@^5.0.1, safe-buffer@^5.1.2:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
-
-scramjet-core@^4.28.0:
-  version "4.28.0"
-  resolved "https://registry.yarnpkg.com/scramjet-core/-/scramjet-core-4.28.0.tgz#d51525280a7f413366932126c66bd8ac8e5fa3fa"
-  integrity sha512-NUkcy9XNZFEv37ERlqef6Y9CRlF+KPqgcIj0FRB8dS0a1rHpOsnxvv4ReZkg00bftNEcpuffe1Z4Vplc1ZIDNQ==
-
-scramjet@^4.34.0:
-  version "4.34.0"
-  resolved "https://registry.yarnpkg.com/scramjet/-/scramjet-4.34.0.tgz#a86b3f61ae7c480dc8c5f513dd060c908873a2b8"
-  integrity sha512-4Ex0bnyZwkj8cU29/Ok4VCcG6MfAlMt6sXQ1JePcvJ7HxFVDx5xrxUmVYPppygoMd2iIIOfg2x4T1O819Fzqmw==
-  dependencies:
-    papaparse "^5.2.0"
-    rereadable-stream "^1.3.34"
-    scramjet-core "^4.28.0"
 
 semver-diff@^3.1.1:
   version "3.1.1"
