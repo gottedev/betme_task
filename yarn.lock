@@ -560,9 +560,9 @@ getpass@^0.1.1:
     assert-plus "^1.0.0"
 
 glob-parent@~5.1.0:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.1.tgz#b6c1ef417c4e5663ea498f1c45afac6916bbc229"
-  integrity sha512-FnI+VGOpnlGHWZxthPGR+QhR78fuiK0sNLkHQv+bL9fQi57lNNdquIbna/WrfROrolq8GK5Ek6BiMwqL/voRYQ==
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
+  integrity sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==
   dependencies:
     is-glob "^4.0.1"
 
@@ -1137,11 +1137,6 @@ request@^2.88.2:
     tunnel-agent "^0.6.0"
     uuid "^3.3.2"
 
-rereadable-stream@^1.3.34:
-  version "1.3.34"
-  resolved "https://registry.yarnpkg.com/rereadable-stream/-/rereadable-stream-1.3.34.tgz#33e176d0076374655f960fb41f698d1f726e01f5"
-  integrity sha512-1Rw08PSX2W2QJIlNukC3xGI/iGVejYfOWS6Jre3SyvHnR2KZ3i4R/DVQcab1XFHcWO4tfclLnLcFRzQG9g7bbQ==
-
 responselike@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/responselike/-/responselike-1.0.2.tgz#918720ef3b631c5642be068f15ade5a46f4ba1e7"
@@ -1163,20 +1158,6 @@ safe-buffer@^5.0.1, safe-buffer@^5.1.2:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
-
-scramjet-core@^4.28.0:
-  version "4.28.0"
-  resolved "https://registry.yarnpkg.com/scramjet-core/-/scramjet-core-4.28.0.tgz#d51525280a7f413366932126c66bd8ac8e5fa3fa"
-  integrity sha512-NUkcy9XNZFEv37ERlqef6Y9CRlF+KPqgcIj0FRB8dS0a1rHpOsnxvv4ReZkg00bftNEcpuffe1Z4Vplc1ZIDNQ==
-
-scramjet@^4.34.0:
-  version "4.34.0"
-  resolved "https://registry.yarnpkg.com/scramjet/-/scramjet-4.34.0.tgz#a86b3f61ae7c480dc8c5f513dd060c908873a2b8"
-  integrity sha512-4Ex0bnyZwkj8cU29/Ok4VCcG6MfAlMt6sXQ1JePcvJ7HxFVDx5xrxUmVYPppygoMd2iIIOfg2x4T1O819Fzqmw==
-  dependencies:
-    papaparse "^5.2.0"
-    rereadable-stream "^1.3.34"
-    scramjet-core "^4.28.0"
 
 semver-diff@^3.1.1:
   version "3.1.1"
